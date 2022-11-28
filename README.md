@@ -1,2 +1,2 @@
-# limaruim.github.io
+# jornadadev
 Currículo do Jornada Dev
